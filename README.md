@@ -2,7 +2,7 @@
 
 ### Free, single-page study material covering the entire AWS CLF-C02 exam syllabus.
 
-🔗 **[Read the Guide →](https://faizanhassan.github.io/aws-clf-c02-guide/)**
+🔗 **[Read the Guide →](https://fzee07.github.io/aws-clf-c02-guide/)**
 
 ---
 
@@ -26,7 +26,7 @@ Includes exam traps, cheat sheets, backend developer angles, and plain-English e
 
 ## How to Use
 
-1. **Online** — Visit the [live link](https://faizanhassan.github.io/aws-clf-c02-guide/)
+1. **Online** — Visit the [live link](https://fzee07.github.io/aws-clf-c02-guide/)
 2. **Offline** — Download `index.html` and open in any browser
 3. **NotebookLM** — Upload the HTML into Google NotebookLM for AI-powered study sessions
 
